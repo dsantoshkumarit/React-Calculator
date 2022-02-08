@@ -26,6 +26,12 @@ body {
   height: 100vh;
 }
 
+.header {
+  text-align: center;
+  font-family: "Press Start 2P", monospace;
+  color: whitesmoke;
+}
+
 .calculator-grid {
   display: grid;
   margin-top: 2rem;
